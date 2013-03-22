@@ -53,10 +53,9 @@
         });
 
         //animate wrapper
-        options = $.extend(options, { height: height + totalHeight });
         $wrapper
             .height(height)
-            .animate(options, function () {
+            .animate({ height: height + totalHeight }, options.duration, options.easing, function () {
                 $elements.css({
                     position: _empty,
                     bottom: _empty,
