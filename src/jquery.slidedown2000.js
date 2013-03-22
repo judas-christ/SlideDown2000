@@ -1,6 +1,6 @@
 ﻿/*  
     Slide Down 2000 for jQuery
-    http://github.com/judas-christ/slide-down-2000
+    http://github.com/judas-christ/SlideDown2000
     MIT License
 */
 (function (global, $) {

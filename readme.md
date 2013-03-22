@@ -9,3 +9,7 @@ Slide down effect for jQuery.
 or
 
     $('<li>New element').appendTo('ul').slideDown2000();
+	
+## License
+
+Released under the MIT License
